@@ -1,0 +1,31 @@
+.container {
+    position: relative;
+}
+
+.box-orange {
+  position: absolute;
+  background: orange;
+  width: 100px;
+  height: 100px;
+  /* top: 10px;
+  left: 10px; */
+}
+
+.box-blue {
+  /* position: absolute; */
+  background: lightskyblue;
+  height: 200px;
+  width: 200px;
+  /* position: static; */
+  /* top: 20px;
+  left: 20px; */
+}
+
+/* .box-green {
+ 
+  background: rgb(64, 199, 64);
+  height: 200px;
+  width: 200px;
+  top: 40px;
+  left: 40px;
+} */
