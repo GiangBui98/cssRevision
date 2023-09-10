@@ -15,6 +15,7 @@ export class WeatherComponent implements OnInit {
     this.weatherService.getTemp('Tokyo')
     .then(temp => console.log(temp))
     .then(err => console.log(err));
+    
   }
 
 }
